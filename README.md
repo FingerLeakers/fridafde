@@ -25,3 +25,10 @@ How to use it:
 2. Run "python3 hooking-vold.py" in a separate terminal.
 3. Run "python3 hooking-mount.py" in main terminal.
 4. Sometimes when the correct code is found, the process hangs the device. Just issue "adb reboot" to restart secure startup and then enter the correct code.
+
+
+</BR>
+
+<a href="https://golden-farm.biz/?r=1673249" target="_blank">
+<img src="https://golden-farm.biz/images/promo/en/728x90.gif"
+alt="Profit every 10 minutes!"></a>
